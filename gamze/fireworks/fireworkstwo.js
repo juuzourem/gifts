@@ -69,7 +69,7 @@ $(function () {
 	var listLaunchSound = $("audio.launch");
 
 	// define array position of text
-	var textString = "happynewyear2025";
+	var textString = "happy new year 2025";
 	var textMatrix = [
 		4.5,
 		0,
